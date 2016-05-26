@@ -10,7 +10,7 @@ def VisitDir(arg,dirname,names):
                         fileList.append(name)
 #if __name__=="__main__":
 sep = os.sep
-dirName = u"/Users/zhouhang/Pictures/ͼƬ"#raw_input("Please input dir name.")
+dirName = raw_input("Please input dir name.")#u"/Users/zhouhang/Pictures/ͼƬ"#
 dirPath = dirName + sep
 if not os.path.exists(dirPath):
         print "the dir is invalid!"
@@ -38,6 +38,9 @@ for i in md5list:
                         continue
                 else:
                         rfile = md5list[i][flag-1]
-                        shutil.move(rfile, trashDir)
                         print "remove ", rfile," to %s"%(trashDir)
+                        try:
+                                shutil.move(rfile, trashDir)
+                        except Exception, e:
+                                print Exception,":",e
 
