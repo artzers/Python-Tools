@@ -1,0 +1,18 @@
+
+jom 1.1.3 - empower your cores
+
+D:/vcpkg-master/installed/x64-windows/tools/qt5/debug/mkspecs/features/data/cmake/Qt5BasicConfig.cmake.in:74: Missing closing " quote
+D:/vcpkg-master/installed/x64-windows/tools/qt5/debug/mkspecs/features/data/cmake/Qt5BasicConfig.cmake.in:82: Missing closing " quote
+D:/vcpkg-master/installed/x64-windows/tools/qt5/debug/mkspecs/features/data/cmake/Qt5BasicConfig.cmake.in:74: Missing closing " quote
+D:/vcpkg-master/installed/x64-windows/tools/qt5/debug/mkspecs/features/data/cmake/Qt5BasicConfig.cmake.in:82: Missing closing " quote
+D:/vcpkg-master/installed/x64-windows/tools/qt5/debug/mkspecs/features/data/cmake/Qt5BasicConfig.cmake.in:74: Missing closing " quote
+D:/vcpkg-master/installed/x64-windows/tools/qt5/debug/mkspecs/features/data/cmake/Qt5BasicConfig.cmake.in:82: Missing closing " quote
+D:/vcpkg-master/installed/x64-windows/tools/qt5/debug/mkspecs/features/data/cmake/Qt5BasicConfig.cmake.in:74: Missing closing " quote
+D:/vcpkg-master/installed/x64-windows/tools/qt5/debug/mkspecs/features/data/cmake/Qt5BasicConfig.cmake.in:82: Missing closing " quote
+jom: D:\vcpkg-master\buildtrees\qt5-declarative\x64-windows-dbg\tools\qmltime\Makefile.Debug [debug\qmltime.exe] Error 1104
+jom: D:\vcpkg-master\buildtrees\qt5-declarative\x64-windows-dbg\tools\qmltime\Makefile [debug] Error 2
+jom: D:\vcpkg-master\buildtrees\qt5-declarative\x64-windows-dbg\tools\Makefile [sub-qmltime-make_first] Error 2
+jom: D:\vcpkg-master\buildtrees\qt5-declarative\x64-windows-dbg\tools\qmleasing\Makefile.Debug [..\..\bin\qmleasing.exe] Error 1104
+jom: D:\vcpkg-master\buildtrees\qt5-declarative\x64-windows-dbg\tools\qmleasing\Makefile [debug] Error 2
+jom: D:\vcpkg-master\buildtrees\qt5-declarative\x64-windows-dbg\tools\Makefile [sub-qmleasing-make_first] Error 2
+jom: D:\vcpkg-master\buildtrees\qt5-declarative\x64-windows-dbg\Makefile [sub-tools-make_first] Error 2
